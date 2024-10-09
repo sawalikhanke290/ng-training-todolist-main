@@ -67,8 +67,4 @@
    - Deleting a Task:
      - Click the "Delete" button next to the task you want to remove.
   
-### 8. **Contact Information**
-   - Provide contact details for anyone who might want to get in touch about the project, such as:
-     - **Author:** Abhijeet Koturwar
-     - **Email:** koturwarabhi@gmail.com
 
