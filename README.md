@@ -17,10 +17,10 @@
    - Steps to Install:
      ```bash
      # Clone the repository 
-     git clone https://gitlab.com/enzigma-assessment-11/ng-training-assignment-1.git
+     git clone [https://github.com/sawalikhanke290/ng-training-todolist-main]
 
      # Navigate to the project directory
-     cd ng-training-assignment-1/client-side
+     cd ng-training-todolist-main/client-side
 
      # Install dependencies
      npm install
